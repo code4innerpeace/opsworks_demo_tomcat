@@ -1,4 +1,3 @@
-# tomcat
+# Demo Tomcat Cookbook
 
-TODO: Enter the cookbook description here.
-
+This is a demo cookbook used to understand few concepts related to AWS Opsworks.
